@@ -40,7 +40,7 @@ input images. This measures how much noise is in the images.
 ## Outputs
 
 The optimizer used is the Adam optimeizer with a learning rate of 0.02. The style weight and content weight are chosen as 100.0 and 
-80.0 respectively. The optimizer is run for 1000 iterations with 10 steps per iteration. Few of the optputs are displayed below.
+80.0 respectively. The optimizer is run for 1000 iterations with 10 steps per iteration. Few of the outputs are displayed below.
 
 ### Content Image 
 
