@@ -17,7 +17,7 @@ The given code considers three loss functions:
 
 The style loss refers to the difference between the outputs of the first few convolutional layers of the 
 network. In other words, the initial few layers of the network contains information on the different patterns
-of the style image (also called the low level features). This kind of loss can be assesed by taking the gram
+of the style image (also called the low level features). This kind of loss can be assessed by taking the gram
 matrix of the convolutional layer.
 
 ![alt text](Images/gm.png "Gram Matrix")
