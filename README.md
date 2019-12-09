@@ -44,16 +44,22 @@ The optimizer used is the Adam optimeizer with a learning rate of 0.02. The styl
 
 ### Content Image 
 
-![alt text](Images/content_image.jpg "Content Image")
+<p align="center">
+  <img src="Image/content_image_1.png" width="350" >
+</p>
 
 ### Style Images
 
-![alt text](Images/style_image_1.jpg "Style Images") ![alt text](Images/style_image_2.jpg "Style Image") ![alt text](Images/style_image_3.jpg "Style Image")
+<p align="center">
+  <img src="Image/style_image_1.png" width="350" >
+  <img src="Image/style_image_2.png" width="350" >
+  <img src="Image/style_image_3.png" width="350" >
+</p>
 
 ### Output Images
 
 <p align="center">
-  <img src="Image/result_image_1.png" width="350" title="hover text">
-  <img src="Image/result_image_2.png" width="350" alt="accessibility text">
-  <img src="Image/result_image_3.png" width="350" alt="accessibility text">
+  <img src="Image/result_image_1.png" width="350" >
+  <img src="Image/result_image_2.png" width="350" >
+  <img src="Image/result_image_3.png" width="350" >
 </p>
