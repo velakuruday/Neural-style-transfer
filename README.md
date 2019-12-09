@@ -45,21 +45,21 @@ The optimizer used is the Adam optimeizer with a learning rate of 0.02. The styl
 ### Content Image 
 
 <p align="center">
-  <img src="Image/content_image_1.png" width="350" >
+  <img src="Images/content_image_1.png" width="350" >
 </p>
 
 ### Style Images
 
 <p align="center">
-  <img src="Image/style_image_1.png" width="350" >
-  <img src="Image/style_image_2.png" width="350" >
-  <img src="Image/style_image_3.png" width="350" >
+  <img src="Images/style_image_1.png" width="350" >
+  <img src="Images/style_image_2.png" width="350" >
+  <img src="Images/style_image_3.png" width="350" >
 </p>
 
 ### Output Images
 
 <p align="center">
-  <img src="Image/result_image_1.png" width="350" >
-  <img src="Image/result_image_2.png" width="350" >
-  <img src="Image/result_image_3.png" width="350" >
+  <img src="Images/result_image_1.png" width="350" >
+  <img src="Images/result_image_2.png" width="350" >
+  <img src="Images/result_image_3.png" width="350" >
 </p>
