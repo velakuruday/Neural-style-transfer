@@ -27,9 +27,9 @@ and the output image.
 
 ### Content loss
 
-The content loss can be calculated by considering the output of the top layers. The final few layers contain
+The content loss can be calculated by considering the output of the top layer. The final few layers contain
 information on the high level features of the content image. The content loss is calculated by taking the 
-euclidean distance between the output of the respective layers of the content image and the output image.
+euclidean distance between the output of the respective layer of the content image and the output image.
 
 ### Variational loss
 
